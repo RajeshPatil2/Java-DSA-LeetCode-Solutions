@@ -35,5 +35,3 @@ Java fundamentals, and coding standards.
   Logic building
   Problem understanding
   Time & space efficiency.
-Author:
-Rajesh Patil
